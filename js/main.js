@@ -41,7 +41,8 @@ $(document).ready(function(){
         items:1,
         loop:true,
         margin: 100,
-        dots: true
+        dots: true,
+
     });
     // Add smooth scrolling to Menu links
 

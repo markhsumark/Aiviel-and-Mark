@@ -1910,7 +1910,7 @@ nav a:hover {
 
 body {
   background-attachment: fixed;
-  background-image: url("../img/body-bg.jpg");
+  background-image: url(https://i.imgur.com/G8PgR4A.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2095,8 +2095,7 @@ body:after {
   left: 0;
   width: 75%;
   height: 100%;
-  background: url(../img/sd1.jpg) no-repeat center center/cover;
-  display: none;
+  background: url(https://i.imgur.com/4HcIO4f.jpg) no-repeat center center/cover;
   z-index: 1;
 }
 
@@ -2159,15 +2158,15 @@ body:after {
 }
 
 .active-banner-slider .owl-controls .owl-dots .owl-dot:nth-child(1) {
-  background: url(../img/sd1.jpg) no-repeat center center/cover;
+  background: url(https://i.imgur.com/4HcIO4f.jpg) no-repeat center center/cover;
 }
 
 .active-banner-slider .owl-controls .owl-dots .owl-dot:nth-child(2) {
-  background: url(../img/sd2.jpg) no-repeat center center/cover;
+  background: url(https://i.imgur.com/vMOgvNu.jpg) no-repeat center center/cover;
 }
 
 .active-banner-slider .owl-controls .owl-dots .owl-dot:nth-child(3) {
-  background: url(../img/sd3.jpg) no-repeat center center/cover;
+  background: url(https://i.imgur.com/HkS1740.jpg) no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
